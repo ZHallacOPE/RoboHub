@@ -1,9 +1,12 @@
 # Robotic Mower Hub (hub.robomaintain.com)
 
-Minimal Next.js scaffold for Vercel deployment.
+Next.js app for the Robotic Mower Hub + headless Shopify shop/cart/checkout.
 
-## Run locally
+## Local dev
 ```bash
 npm install
 npm run dev
 ```
+
+## Environment variables
+Copy `.env.example` to `.env.local` and fill in values.
